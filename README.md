@@ -21,17 +21,10 @@ It also includes examples of deploying microservices, configuring service types 
 
 ## 📁 Repository Structure
 ```bash
-Celebal-Devops-Assignment5/
+Celebal/
 ├── README.md
-├── minikube-cluster/
-│ └── setup-steps.md
-├── kubeadm-cluster/
-│ └── setup-steps.md
-├── aks-portal-cluster/
-│ └── portal-steps.md
-├── microservice-deployment/
-│ ├── deployment.yaml
-│ └── screenshot.png
+├── microservice-deployment/ 
+│ └── deployment.yaml
 ├── exposing-services/
 │ ├── clusterip.yaml
 │ ├── nodeport.yaml
